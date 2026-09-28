@@ -9,8 +9,8 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   // Optional: set basePath if deploying to a specific repository path
-  // basePath: '/xm-portfolio',
-  basePath: isProd ? '/xm-portfolio' : ''
+  // basePath: '/xavier-mantellato',
+  basePath: isProd ? '/xavier-mantellato' : ''
 };
 
 export default nextConfig;
